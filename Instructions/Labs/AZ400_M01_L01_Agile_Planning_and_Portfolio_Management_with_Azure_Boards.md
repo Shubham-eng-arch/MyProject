@@ -5,7 +5,7 @@ lab:
 ---
 
 # Agile Planning and Portfolio Management with Azure Boards
-# Added A line from Vs_code
+# Added A line from 
 # Student lab manual
 
 ## Lab requirements
